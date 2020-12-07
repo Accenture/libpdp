@@ -9,7 +9,7 @@ The following steps are to build on an EC2 Ubuntu 12.07 microimage:
 
     apt-get update
     apt-get install make g++ git
-    apt-get install libcurl3-dev libxml-dev
+    apt-get install libcurl3-dev libxml2-dev
     apt-get install python-setuptools
     easy_install boto
 
